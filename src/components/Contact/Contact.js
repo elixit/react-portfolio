@@ -8,7 +8,7 @@ const Contact = () => {
   const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
 
   const onSubmit = (formData) => {
-    // Instead of alert, you can handle form submission here, e.g., send data to a server
+    // send data to a server
     console.log(formData);
   };
 
