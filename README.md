@@ -22,8 +22,5 @@ This is a single-page application portfolio for a web developer. The portfolio w
 ## Screenshots
 
 
-- Insert screenshot of the portfolio's landing page.
-- Insert screenshot of the "About Me" section.
-- Insert screenshot of the "Portfolio" section.
-- Insert screenshot of the "Contact" section.
-- Insert screenshot 
+![3AC7DB39-3764-4C4D-893C-AF1F186B0565](https://github.com/elixit/react-portfolio/assets/63372291/e98bc748-fe6a-4d47-a613-67c0f5ce52e5)
+
