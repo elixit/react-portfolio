@@ -33,8 +33,5 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Link
 
 (https://drive.google.com/file/d/1CK2LtRDz1xHxs5j51gciDTUQhZqyjvlW/view?usp=sharing)
-## Screenshots
 
-
-![3AC7DB39-3764-4C4D-893C-AF1F186B0565](https://github.com/elixit/react-portfolio/assets/63372291/e98bc748-fe6a-4d47-a613-67c0f5ce52e5)
 
